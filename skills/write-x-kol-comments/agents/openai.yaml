@@ -1,0 +1,4 @@
+interface:
+  display_name: "X KOL Comment Writer"
+  short_description: "Draft thoughtful bilingual replies for KOL posts"
+  default_prompt: "Use $write-x-kol-comments to draft five distinct, source-faithful X replies with Chinese translations."
