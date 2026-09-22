@@ -22,7 +22,7 @@ Generic replies such as “Great post” create little value. Strong KOL engagem
 
 ## What it delivers
 
-- Five publish-ready directions: recommended, concise, expert, community, and conversation starter.
+- Five draft directions for human review: recommended, concise, expert, community, and conversation starter.
 - English-first copy with short Chinese translations for review.
 - Domain-aware angles for AI, technology, crypto, macro markets, and football.
 - Careful handling of unverified claims, live data, causal language, and promotional links.
@@ -108,3 +108,9 @@ X and Twitter are trademarks of X Corp. This independent project is not affiliat
 Contributions that improve clarity, safety, multilingual review, or domain coverage are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 See [CHANGELOG.md](CHANGELOG.md) for release notes.
+
+## Version and license status
+
+The current packaged release is [v1.0.0](https://github.com/Faiz-V/x-kol-comment-interaction-skill/releases/tag/v1.0.0). Its ZIP contains the `write-x-kol-comments` skill folder; this is a prompt-and-reference package, not an X API client or an automatic posting service. Model output quality still requires human review.
+
+No repository license has been selected. **Publicly visible / installable does not mean licensed for reuse or redistribution.** The installation instructions describe the package layout; they do not grant a broader license. This documentation update does not add one.
